@@ -1,0 +1,11 @@
+{
+  "name": "com.furrfield-studio.bindables",
+  "version": "1.0.0",
+  "displayName": "Bindables",
+  "author": {
+    "name": "FurrField Studio",
+    "email": "contact@furrfield.com",
+    "url": "https://furrfield.com"
+  },
+  "documentationUrl": ""
+}
