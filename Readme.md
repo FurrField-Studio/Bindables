@@ -1,6 +1,6 @@
 ﻿# Bindables
 
-This is editor only attribute set to automatically assign gameobjects, components and scriptable objects to variables in components.
+Bindables is a lightweight Unity editor extension designed to automate reference assignments in your MonoBehaviour scripts, cutting down manual Inspector setup and reducing errors.
 
 # Table of Contents
 
